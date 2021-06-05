@@ -1,7 +1,7 @@
 Modern Artificial Intelligence
 ==============================
 
-5 hands-on projects and unleash the power of AI to solve real-world business problems
+5 hands-on projects unleashing the power the power of AI to solve real-world business problems
 
 Project Organization
 ------------
@@ -53,5 +53,3 @@ Project Organization
 
 
 --------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
