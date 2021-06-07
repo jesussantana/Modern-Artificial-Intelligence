@@ -1,6 +1,6 @@
 # Modern Artificial Intelligence  
 ---
-## 5 hands-on projects unleashing the power the power of AI to solve real-world business problems  
+## 5 Projects that unleash the power of AI to solve real-world business problems 
 ---
 [1. AI in HealthCare - Chest Disease Detection With Teachable Machines](https://drive.google.com/file/d/1QX_Id7gzS8CnHDuYelIEEHStMk70FBr-/view?usp=sharing)
 
