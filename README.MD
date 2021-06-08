@@ -11,3 +11,5 @@
 4. Insurance Premium with AWS SageMaker AutoPilot
 
 5. Food Classification with DataRobot
+
+6. Predicting the Hotel booking
