@@ -14,4 +14,4 @@
 
 ## Machine Learning Real World projects in Python  
 
-1. [Predicting the Hotel booking with Python](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/Predicting%20the%20Hotel%20booking/ML_hotel_booking_Prediction_deploy.ipynb)
+1. [Predicting the Hotel Booking](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/Predicting%20the%20Hotel%20booking/ML_hotel_booking_Prediction_deploy.ipynb)
