@@ -2,9 +2,9 @@
 ---
 ## Projects that unleash the power of AI to solve Real World business problems 
 ---
-1. [AI in HealthCare - Chest Disease Detection With Teachable Machines](https://drive.google.com/file/d/1QX_Id7gzS8CnHDuYelIEEHStMk70FBr-/view?usp=sharing)
+1. [AI in HealthCare - Chest Disease Detection With Teachable Machines](https://teachablemachine.withgoogle.com/models/51m9nmioQ/)
 
-2. Emotion AI With Teachable Machines
+2. [Emotion AI With Teachable Machines](https://teachablemachine.withgoogle.com/models/ILuyfBO_9/)
 
 3. CardioVascular with DataRobot
 
