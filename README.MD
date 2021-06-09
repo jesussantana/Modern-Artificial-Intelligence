@@ -10,8 +10,11 @@
 
 4. Insurance Premium with AWS SageMaker AutoPilot
 
-5. Food Classification with DataRobot
+5. Food Classification with DataRobot  
 
-## Machine Learning Real World projects in Python  
 
-1. [Predicting the Hotel Booking](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/Predicting%20the%20Hotel%20booking/ML_hotel_booking_Prediction_deploy.ipynb)
+- Machine Learning Projects in Python  
+
+1. [Predicting the Hotel booking: Predict Whether booking is going to cancel or not](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/Predicting%20the%20Hotel%20booking/ML_hotel_booking_Prediction_deploy.ipynb)  
+
+2. [Develop a Machine learning Model that predicts whether person has kidney disease or not](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/Predicting%20the%20Hotel%20booking/ML_hotel_booking_Prediction_deploy.ipynb)
