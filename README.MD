@@ -19,6 +19,6 @@
 
 2. [Develop a Machine learning Model that predicts whether person has kidney disease or not](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/%20Predict%20status%20of%20Chronic%20kidney%20disease/ML_chronic_Kidney_disease-deploy.ipynb)  
 
-2. [Predict the Prices of Flight: Predict the prices of Flght using Regression & Ensemble Algorithms](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/%20Predict%20status%20of%20Chronic%20kidney%20disease/ML_chronic_Kidney_disease-deploy.ipynb)
+2. [Predict the Prices of Flight: Predict the prices of Flght using Regression & Ensemble Algorithms](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/Predict%20the%20Prices%20of%20Flight/flight_price_deploy.ipynb)
 
 
