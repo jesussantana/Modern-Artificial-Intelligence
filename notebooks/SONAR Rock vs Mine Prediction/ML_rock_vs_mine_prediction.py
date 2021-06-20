@@ -13,7 +13,7 @@ from sklearn.metrics import accuracy_score
 """Data Collection and Data Processing"""
 
 #loading the dataset to a pandas Dataframe
-sonar_data = pd.read_csv('/content/sonar data.csv', header=None)
+sonar_data = pd.read_csv('../../data/raw/sonar data.csv', header=None)
 
 sonar_data.head()
 
