@@ -14,7 +14,10 @@
 
 ---
 ### Machine Learning Projects in Python  
----
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
+[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)  
+---  
+
 1. [Predicting the Hotel booking: Predict Whether booking is going to cancel or not](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/Predicting%20the%20Hotel%20booking/ML_hotel_booking_Prediction_deploy.ipynb)  
 
 2. [Develop a Machine learning Model that predicts whether person has kidney disease or not](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/%20Predict%20status%20of%20Chronic%20kidney%20disease/ML_chronic_Kidney_disease-deploy.ipynb)  
