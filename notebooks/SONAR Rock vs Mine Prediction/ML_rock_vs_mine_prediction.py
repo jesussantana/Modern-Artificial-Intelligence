@@ -1,8 +1,7 @@
 # -*- coding: utf-8 -*-
-"""Rock vs Mine Prediction.py
+"""Rock vs Mine Prediction.py"""
 
-Importing the Dependencies
-"""
+"""Importing the Dependencies"""
 
 import numpy as np
 import pandas as pd
