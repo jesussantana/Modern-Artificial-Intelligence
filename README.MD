@@ -4,7 +4,7 @@
 ---
 1. [AI in HealthCare - Chest Disease Detection With Teachable Machines](https://teachablemachine.withgoogle.com/models/51m9nmioQ/)
 
-2. [Emotion AI With Teachable Machines](https://teachablemachine.withgoogle.com/models/ILuyfBO_9/)
+2. [Emotion AI With Teachable Machines](https://teachablemachine.withgoogle.com/models/RxdCZMbqh/)
 
 3. CardioVascular with DataRobot
 
