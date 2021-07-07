@@ -7,7 +7,7 @@
 
 2. [Emotion AI With Teachable Machines](https://teachablemachine.withgoogle.com/models/RxdCZMbqh/)
 
-3. [CardioVascular with DataRobot](https://60e50a6d1ff3629d97a994fa.apps2.datarobot.com/records)
+3. [AI in HealthCare - CardioVascular Disease Detection with DataRobot](https://60e50a6d1ff3629d97a994fa.apps2.datarobot.com/?token=H0iBuqYOSo4SffT5Z1sQ1GYN4xboYKDZbZ6RlqJNbqs)
 
    - [Testing Data](https://github.com/jesussantana/Modern-Artificial-Intelligence/tree/main/notebooks/CardioVascular%20with%20DataRobot/Testing%20Data/)
 
