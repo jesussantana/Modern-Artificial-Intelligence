@@ -2,11 +2,14 @@
 ---
 ## Projects that unleash the power of AI to solve Real World business problems 
 ---
-1. [AI in HealthCare - Chest Disease Detection With Teachable Machines](https://teachablemachine.withgoogle.com/models/51m9nmioQ/)
+1. [AI in HealthCare - Chest Disease Detection With Teachable Machines](https://teachablemachine.withgoogle.com/models/51m9nmioQ/)  
+    - [Testing Data](https://github.com/jesussantana/Modern-Artificial-Intelligence/tree/main/notebooks/AI%20in%20HealthCare%20-%20Chest%20Disease%20Detection%20With%20Teachable%20Machines/Testing%20Data/)
 
 2. [Emotion AI With Teachable Machines](https://teachablemachine.withgoogle.com/models/RxdCZMbqh/)
 
-3. CardioVascular with DataRobot
+3. [CardioVascular with DataRobot](https://60e50a6d1ff3629d97a994fa.apps2.datarobot.com/records)
+
+   - [Testing Data](https://github.com/jesussantana/Modern-Artificial-Intelligence/tree/main/notebooks/CardioVascular%20with%20DataRobot/Testing%20Data/)
 
 4. Insurance Premium with AWS SageMaker AutoPilot
 
