@@ -1,0 +1,11 @@
+name,description,prediction,alco,height,ap_lo,cholesterol,active,ap_hi,gluc,gender,weight,smoke,age
+New Record #1,A record from cardio_test.csv,0.5306161046,0,170,80,1,1,120,1,2,74,0,23421
+New Record #2,A record from cardio_test.csv,0.1755040735,0,158,80,1,1,120,1,2,61,0,15527
+New Record #3,A record from cardio_test.csv,0.811383307,0,160,90,1,1,140,1,1,83,0,21279
+New Record #4,A record from cardio_test.csv,0.0600306615,0,157,70,1,1,100,1,1,57,0,15241
+New Record #5,A record from cardio_test.csv,0.1324672848,0,179,60,1,1,110,1,2,61,0,16137
+New Record #8,A record from cardio_test.csv,0.3489084542,0,175,80,1,1,120,1,1,70,0,20607
+New Record #6,A record from cardio_test.csv,0.4753805101,0,165,80,1,1,120,1,2,76,0,22574
+New Record #7,A record from cardio_test.csv,0.8625879884,0,172,1000,1,1,150,1,2,76,0,21401
+New Record #9,A record from cardio_test.csv,0.0740450174,0,157,70,1,1,100,1,1,45,0,18236
+New Record #10,A record from cardio_test.csv,0.3498675227,0,169,80,1,1,120,1,2,71,0,20282
