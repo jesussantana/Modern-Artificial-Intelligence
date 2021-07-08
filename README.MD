@@ -5,8 +5,8 @@
 ### Machine Learning Projects with Cloud Services
 
 1. [AI in HealthCare - Chest Disease Detection With Teachable Machines](https://teachablemachine.withgoogle.com/models/51m9nmioQ/) 
-    - Detecction, classification of pulmonary diseases with AI
-    - [Testing Data](https://github.com/jesussantana/Modern-Artificial-Intelligence/tree/main/notebooks/AI%20in%20HealthCare%20-%20Chest%20Disease%20Detection%20With%20Teachable%20Machines/Testing%20Data/)
+    - Detecction, classification of pulmonary diseases with AI (X-ray Images)
+    - [Testing Data](https://drive.google.com/drive/folders/1-CuUumpUn0aP398X21IrwKuHo2NOVHXn)
 
 2. [Emotion AI With Teachable Machines](https://teachablemachine.withgoogle.com/models/RxdCZMbqh/)  
 
