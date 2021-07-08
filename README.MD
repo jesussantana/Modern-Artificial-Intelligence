@@ -1,12 +1,17 @@
 # Modern Artificial Intelligence  
 ---
-## Projects that unleash the power of AI to solve Real World business problems 
----
+## Projects that Unleash the Power of AI to solve Real-World Business Challenges
+---  
+### Machine Learning Projects with Cloud Services
+
 1. [AI in HealthCare - Chest Disease Detection With Teachable Machines](https://teachablemachine.withgoogle.com/models/51m9nmioQ/) 
     - Detecction, classification of pulmonary diseases with AI
     - [Testing Data](https://github.com/jesussantana/Modern-Artificial-Intelligence/tree/main/notebooks/AI%20in%20HealthCare%20-%20Chest%20Disease%20Detection%20With%20Teachable%20Machines/Testing%20Data/)
 
-2. [Emotion AI With Teachable Machines](https://teachablemachine.withgoogle.com/models/RxdCZMbqh/)
+2. [Emotion AI With Teachable Machines](https://teachablemachine.withgoogle.com/models/RxdCZMbqh/)  
+
+    - The aim of the project is to classify people's emotions based on their facial images. 
+    - This data set consists of 3 different classes (emotions): sad, happy, and surprise.
 
 3. [AI in HealthCare - CardioVascular Disease Detection with DataRobot](https://60e50a6d1ff3629d97a994fa.apps2.datarobot.com/?token=H0iBuqYOSo4SffT5Z1sQ1GYN4xboYKDZbZ6RlqJNbqs)
 
