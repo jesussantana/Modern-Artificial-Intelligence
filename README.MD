@@ -21,7 +21,7 @@
 
 5. Food Classification with DataRobot 
 
-6. [Predicting Flight Delays with DataRobot](https://60e767247e71a6eaa3a03f73.apps2.datarobot.com/?token=vhG83gNWsM-13MCNtNgHtdFrAhrg-SjhC45wWKrpajc)
+6. [Predicting Flight Delays with DataRobot](https://60e80fda7e71a6eaa3a03f8d.apps2.datarobot.com/?token=iQBMuLonst9N-w4P3cI31M6BqYrwL8SfJmRPxEW6uPA)
 
     - The objective of the project is to develop a model aimed at predicting flight delays at take-off 
 
