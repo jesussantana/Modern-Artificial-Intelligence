@@ -10,24 +10,32 @@
     - Detecction, classification of pulmonary diseases with AI (X-ray Images)
     - [Testing Data](https://drive.google.com/drive/folders/1-CuUumpUn0aP398X21IrwKuHo2NOVHXn)
 
-2. [AI in Tecnology - Emotion AI With Teachable Machines](https://teachablemachine.withgoogle.com/models/RxdCZMbqh/)  
+2. [AI in Tecnology - Custom Trash Detector with AWS DeppLens](https://teachablemachine.withgoogle.com/models/RxdCZMbqh/)  
+
+    - This project, we use an AWS DeepLens device to do an image classification–based task. 
+    - We train a model to detect if a piece of trash is from three potential classes: landfill, compost, or recycling.
+
+3. [AI in Tecnology - Emotion AI With Teachable Machines](https://teachablemachine.withgoogle.com/models/RxdCZMbqh/)  
 
     - The aim of the project is to classify people's emotions based on their facial images. 
     - This data set consists of 3 different classes (emotions): sad, happy, and surprise.
 
-3. [AI in HealthCare - CardioVascular Disease Detection with DataRobot](https://60e50a6d1ff3629d97a994fa.apps2.datarobot.com/?token=H0iBuqYOSo4SffT5Z1sQ1GYN4xboYKDZbZ6RlqJNbqs)
+4. [AI in HealthCare - CardioVascular Disease Detection with DataRobot](https://60e50a6d1ff3629d97a994fa.apps2.datarobot.com/?token=H0iBuqYOSo4SffT5Z1sQ1GYN4xboYKDZbZ6RlqJNbqs)
 
    - The objective of the problem is to detect the presence or absence of cardiovascular diseases in a person based on the given characteristics
 
-4. [AI in Business - Insurance Premium with AWS SageMaker AutoPilot](#)
+5. [AI in Business - Insurance Premium with AWS SageMaker AutoPilot](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Business%20-%20Insurance%20Premium%20with%20AWS%20SageMaker%20AutoPilot/Insurance_Prediction_AutoPilot_Startup.ipynb)
 
     - S3, EC2, SageMaker
-    - [Data Explorer](#)
-    - [Candidate Definition](#)
+    - [Data Explorer](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Business%20-%20Insurance%20Premium%20with%20AWS%20SageMaker%20AutoPilot/SageMakerAutopilotDataExplorationNotebook.html)
+    - [Candidate Definition](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Business%20-%20Insurance%20Premium%20with%20AWS%20SageMaker%20AutoPilot/SageMakerAutopilotCandidateDefinitionNotebook.html)
 
-5. Food Classification with DataRobot 
+6. [AI in Technology - Food Classification with DataRobot](#)  
 
-6. [AI in Businnes - Predicting Flight Delays with DataRobot](https://60e895727e71a6eaa3a03fa3.apps2.datarobot.com/?token=8C8XQxDzhpww8nMnclVY2DMp-VqiOI-AtM8_Gu9aVQY)
+    - Food recognition with AI and Explainable AI with DataRobot
+
+
+7. [AI in Businnes - Predicting Flight Delays with DataRobot](https://60e895727e71a6eaa3a03fa3.apps2.datarobot.com/?token=8C8XQxDzhpww8nMnclVY2DMp-VqiOI-AtM8_Gu9aVQY)
 
     - The objective of the project is to develop a model aimed at predicting flight delays at take-off 
 
@@ -39,18 +47,18 @@
 
 1. [AI in Business - Predicting the Hotel booking](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Business%20-%20Predicting%20the%20Hotel%20booking/ML_hotel_booking_Prediction_deploy.ipynb)  
 
-- Predict Whether booking is going to cancel or not
+   - Predict Whether booking is going to cancel or not
 
 2. [Ai in HealthCare - Predict status of Chronic kidney disease](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/Ai%20in%20HealthCare%20-%20Predict%20status%20of%20Chronic%20kidney%20disease/ML_chronic_Kidney_disease-deploy.ipynb)  
 
-- Develop a Machine learning Model that predicts whether person has kidney disease or not
+   - Develop a Machine learning Model that predicts whether person has kidney disease or not
 
 3. [AI in Business - Predict the Prices of Flights](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Business%20-%20Predict%20the%20Prices%20of%20Flight/ML_flight_price_deploy.ipynb)  
 
-- Predict the prices of Flght using Regression & Ensemble Algorithms
+   - Predict the prices of Flght using Regression & Ensemble Algorithms
 
 4. [AI in Technology - SONAR Rock vs Mine Prediction](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Technology%20-%20SONAR%20Rock%20vs%20Mine%20Prediction/ML_Rock_vs_Mine_Prediction.ipynb)  
 
-- Predict whether an object is either Rock or Mine with SONAR Data
+   - Predict whether an object is either Rock or Mine with SONAR Data
 
 
