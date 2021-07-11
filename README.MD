@@ -27,7 +27,7 @@
 
 5. Food Classification with DataRobot 
 
-6. [Predicting Flight Delays with DataRobot](https://60e895727e71a6eaa3a03fa3.apps2.datarobot.com/?token=8C8XQxDzhpww8nMnclVY2DMp-VqiOI-AtM8_Gu9aVQY)
+6. [AI in Businnes - Predicting Flight Delays with DataRobot](https://60e895727e71a6eaa3a03fa3.apps2.datarobot.com/?token=8C8XQxDzhpww8nMnclVY2DMp-VqiOI-AtM8_Gu9aVQY)
 
     - The objective of the project is to develop a model aimed at predicting flight delays at take-off 
 
@@ -37,12 +37,20 @@
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)  
 ---  
 
-1. [Predicting the Hotel booking: Predict Whether booking is going to cancel or not](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/Predicting%20the%20Hotel%20booking/ML_hotel_booking_Prediction_deploy.ipynb)  
+1. [AI in Business - Predicting the Hotel booking](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/Predicting%20the%20Hotel%20booking/ML_hotel_booking_Prediction_deploy.ipynb)  
 
-2. [Develop a Machine learning Model that predicts whether person has kidney disease or not](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/%20Predict%20status%20of%20Chronic%20kidney%20disease/ML_chronic_Kidney_disease-deploy.ipynb)  
+- Predict Whether booking is going to cancel or not
 
-3. [Predict the Prices of Flight: Predict the prices of Flght using Regression & Ensemble Algorithms](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/Predict%20the%20Prices%20of%20Flight/ML_flight_price_deploy.ipynb)
+2. [Ai in HealthCare - Predict status of Chronic kidney disease](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/%20Predict%20status%20of%20Chronic%20kidney%20disease/ML_chronic_Kidney_disease-deploy.ipynb)  
 
-4. [SONAR Rock vs Mine Prediction: Predict whether an object is either Rock or Mine with SONAR Data](https://github.com/jesussantana/Modern-Artificial-Intelligence/tree/main/notebooks/SONAR%20Rock%20vs%20Mine%20Prediction)
+- Develop a Machine learning Model that predicts whether person has kidney disease or not
+
+3. [AI in Business - Predict the Prices of Flights](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/Predict%20the%20Prices%20of%20Flight/ML_flight_price_deploy.ipynb)  
+
+- Predict the prices of Flght using Regression & Ensemble Algorithms
+
+4. [AI in Technology - SONAR Rock vs Mine Prediction](https://github.com/jesussantana/Modern-Artificial-Intelligence/tree/main/notebooks/SONAR%20Rock%20vs%20Mine%20Prediction)  
+
+- Predict whether an object is either Rock or Mine with SONAR Data
 
 
