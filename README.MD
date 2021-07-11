@@ -54,7 +54,7 @@
 
    - Predict Whether booking is going to cancel or not
 
-3. [AI in Business - Predict the Prices of Flights](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Business%20-%20Predict%20the%20Prices%20of%20Flight/ML_flight_price_deploy.ipynb)  
+3. [AI in Business - Predict Flight Prices](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Business%20-%20Predict%20the%20Prices%20of%20Flight/ML_flight_price_deploy.ipynb)  
 
    - Predict the prices of Flght using Regression & Ensemble Algorithms
 
