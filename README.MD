@@ -10,7 +10,7 @@
     - Detecction, classification of pulmonary diseases with AI (X-ray Images)
     - [Testing Data](https://drive.google.com/drive/folders/1-CuUumpUn0aP398X21IrwKuHo2NOVHXn)
 
-2. [Emotion AI With Teachable Machines](https://teachablemachine.withgoogle.com/models/RxdCZMbqh/)  
+2. [AI in Tecnology - Emotion AI With Teachable Machines](https://teachablemachine.withgoogle.com/models/RxdCZMbqh/)  
 
     - The aim of the project is to classify people's emotions based on their facial images. 
     - This data set consists of 3 different classes (emotions): sad, happy, and surprise.
@@ -22,6 +22,8 @@
 4. [AI in Business - Insurance Premium with AWS SageMaker AutoPilot](#)
 
     - S3, EC2, SageMaker
+    - [Data Explorer](#)
+    - [Candidate Definition](#)
 
 5. Food Classification with DataRobot 
 
