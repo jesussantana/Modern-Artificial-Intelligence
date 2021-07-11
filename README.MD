@@ -6,7 +6,7 @@
 ---  
 ### Machine Learning Projects with Cloud Services  
 
-####    - Google Teachable Machines, DataRobot AI platform, AWS SageMaker AutoPilot, AWS DeppLens
+####    - Google Teachable Machines, DataRobot AI platform, AWS SageMaker AutoPilot, AWS DeppLens, AWS DeepRacer
 
 1. [AI in HealthCare - Chest Disease Detection With Teachable Machines](https://teachablemachine.withgoogle.com/models/51m9nmioQ/) 
     - Detecction, classification of pulmonary diseases with AI (X-ray Images)
