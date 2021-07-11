@@ -37,19 +37,19 @@
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)  
 ---  
 
-1. [AI in Business - Predicting the Hotel booking](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/Predicting%20the%20Hotel%20booking/ML_hotel_booking_Prediction_deploy.ipynb)  
+1. [AI in Business - Predicting the Hotel booking](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Business%20-%20Predicting%20the%20Hotel%20booking/ML_hotel_booking_Prediction_deploy.ipynb)  
 
 - Predict Whether booking is going to cancel or not
 
-2. [Ai in HealthCare - Predict status of Chronic kidney disease](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/%20Predict%20status%20of%20Chronic%20kidney%20disease/ML_chronic_Kidney_disease-deploy.ipynb)  
+2. [Ai in HealthCare - Predict status of Chronic kidney disease](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/Ai%20in%20HealthCare%20-%20Predict%20status%20of%20Chronic%20kidney%20disease/ML_chronic_Kidney_disease-deploy.ipynb)  
 
 - Develop a Machine learning Model that predicts whether person has kidney disease or not
 
-3. [AI in Business - Predict the Prices of Flights](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/Predict%20the%20Prices%20of%20Flight/ML_flight_price_deploy.ipynb)  
+3. [AI in Business - Predict the Prices of Flights](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Business%20-%20Predict%20the%20Prices%20of%20Flight/ML_flight_price_deploy.ipynb)  
 
 - Predict the prices of Flght using Regression & Ensemble Algorithms
 
-4. [AI in Technology - SONAR Rock vs Mine Prediction](https://github.com/jesussantana/Modern-Artificial-Intelligence/tree/main/notebooks/SONAR%20Rock%20vs%20Mine%20Prediction)  
+4. [AI in Technology - SONAR Rock vs Mine Prediction](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Technology%20-%20SONAR%20Rock%20vs%20Mine%20Prediction/ML_Rock_vs_Mine_Prediction.ipynb)  
 
 - Predict whether an object is either Rock or Mine with SONAR Data
 
