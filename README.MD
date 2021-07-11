@@ -10,7 +10,7 @@
     - Detecction, classification of pulmonary diseases with AI (X-ray Images)
     - [Testing Data](https://drive.google.com/drive/folders/1-CuUumpUn0aP398X21IrwKuHo2NOVHXn)
 
-2. [AI in Tecnology - Custom Trash Detector with AWS DeppLens](https://teachablemachine.withgoogle.com/models/RxdCZMbqh/)  
+2. [AI in Tecnology - Custom Trash Detector with AWS DeppLens](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Technology%20-%20AWS%20DeepLens%20Custom%20Trash%20Detector/AI-in-Technology-aws-deeplens-custom-trash-detector.ipynb)  
 
     - This project, we use an AWS DeepLens device to do an image classification–based task. 
     - We train a model to detect if a piece of trash is from three potential classes: landfill, compost, or recycling.
