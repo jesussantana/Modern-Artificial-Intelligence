@@ -6,7 +6,7 @@
 ---  
 ### Machine Learning Projects with Cloud Services  
 
-####    - Google Teachable Machines, DataRobot AI platform, AWS SageMaker AutoPilot, AWS DeppLens, AWS DeepRacer
+#### - Google Teachable Machines, Google Vertex AI, Microsoft Azure ML Designer, DataRobot AI platform, AWS SageMaker AutoPilot, AWS DeepLens, AWS DeepRacer
 
 1. [AI in HealthCare - Chest Disease Detection With Teachable Machines](https://teachablemachine.withgoogle.com/models/51m9nmioQ/) 
     - Detecction, classification of pulmonary diseases with AI (X-ray Images)
@@ -48,11 +48,14 @@
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)    
 ---  
 
-1. [Ai in HealthCare - Predict status of Chronic kidney disease](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/Ai%20in%20HealthCare%20-%20Predict%20status%20of%20Chronic%20kidney%20disease/ML_chronic_Kidney_disease-deploy.ipynb)  
+1. [AI in Business - Predict Crypto Punks NFT's Prices](https://github.com/jesussantana/IT-Academy-Project-CryptoPunks/tree/main/notebooks) 
+
+    - Predict Crypto Punks NFT's Prices in Relation to its Characteristics
+    - [Report Crypto Punks](https://docs.google.com/document/d/1kkyGPkHLR1y9ujnGANjC53HomeM22HPf11OecJG_rFw/edit?usp=sharing) 
 
    - Develop a Machine learning Model that predicts whether person has kidney disease or not
 
-2. [AI in Business - Predicting the Hotel booking](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Business%20-%20Predicting%20the%20Hotel%20booking/ML_hotel_booking_Prediction_deploy.ipynb)  
+2. [AI in Business - Predicting the Hotel Booking](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Business%20-%20Predicting%20the%20Hotel%20booking/ML_hotel_booking_Prediction_deploy.ipynb)  
 
    - Predict Whether booking is going to cancel or not
 
@@ -62,6 +65,8 @@
 
 4. [AI in Technology - SONAR Rock vs Mine Prediction](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Technology%20-%20SONAR%20Rock%20vs%20Mine%20Prediction/ML_Rock_vs_Mine_Prediction.ipynb)  
 
-   - Predict whether an object is either Rock or Mine with SONAR Data
+   - Predict whether an object is either Rock or Mine with SONAR Data  or
+
+5. [Ai in HealthCare - Predict status of Chronic Kidney Disease](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/Ai%20in%20HealthCare%20-%20Predict%20status%20of%20Chronic%20kidney%20disease/ML_chronic_Kidney_disease-deploy.ipynb)  
 
 
