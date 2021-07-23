@@ -6,7 +6,13 @@
 ---  
 ### Machine Learning Projects with Cloud Services  
 
-#### - Google Teachable Machines, Google Vertex AI, Microsoft Azure ML Designer, DataRobot AI platform, AWS SageMaker AutoPilot, AWS DeepLens, AWS DeepRacer
+- Google Teachable Machines
+- Google Vertex AI
+- Microsoft Azure ML Designer
+- DataRobot AI platform
+- AWS SageMaker AutoPilot-
+- AWS DeepLens
+ - AWS DeepRacer
 
 1. [AI in HealthCare - Chest Disease Detection With Teachable Machines](https://teachablemachine.withgoogle.com/models/51m9nmioQ/) 
     - Detecction, classification of pulmonary diseases with AI (X-ray Images)
