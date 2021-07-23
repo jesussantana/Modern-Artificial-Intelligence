@@ -57,9 +57,7 @@
 1. [AI in Business - Predict Crypto Punks NFT's Prices](https://github.com/jesussantana/IT-Academy-Project-CryptoPunks/tree/main/notebooks) 
 
     - Predict Crypto Punks NFT's Prices in Relation to its Characteristics
-    - [Report Crypto Punks](https://docs.google.com/document/d/1kkyGPkHLR1y9ujnGANjC53HomeM22HPf11OecJG_rFw/edit?usp=sharing) 
-
-   - Develop a Machine learning Model that predicts whether person has kidney disease or not
+    - [Report Crypto Punks](https://github.com/jesussantana/IT-Academy-Project-CryptoPunks/blob/main/reports/CryptoPunks.docx) 
 
 2. [AI in Business - Predicting the Hotel Booking](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Business%20-%20Predicting%20the%20Hotel%20booking/ML_hotel_booking_Prediction_deploy.ipynb)  
 
