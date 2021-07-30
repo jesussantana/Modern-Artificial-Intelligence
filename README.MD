@@ -55,10 +55,9 @@
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)    
 ---  
 
-1. [AI in Business - Predict Crypto Punks NFT's Prices](#) 
+1. [AI in Business - Predict Crypto Punks NFT's Prices](https://drive.google.com/file/d/1PpVMcJtAnLuVKMa4fPB6SqX1Fb2bbI-G/view?usp=sharing) 
 
     - Predict Crypto Punks NFT's Prices in Relation to its Characteristics
-    - [Report Crypto Punks](#) 
 
 2. [AI in Business - Predicting the Hotel Booking](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Business%20-%20Predicting%20the%20Hotel%20booking/ML_hotel_booking_Prediction_deploy.ipynb)  
 
@@ -70,8 +69,12 @@
 
 4. [AI in Technology - SONAR Rock vs Mine Prediction](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Technology%20-%20SONAR%20Rock%20vs%20Mine%20Prediction/ML_Rock_vs_Mine_Prediction.ipynb)  
 
-   - Predict whether an object is either Rock or Mine with SONAR Data  or
+   - Predict whether an object is either Rock or Mine with SONAR Data  predicting
 
-5. [Ai in HealthCare - Predict status of Chronic Kidney Disease](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/Ai%20in%20HealthCare%20-%20Predict%20status%20of%20Chronic%20kidney%20disease/ML_chronic_Kidney_disease-deploy.ipynb)  
+5. [AI in Technology - Barcelona Rainfall Prediction](https://drive.google.com/file/d/1NVu3lp8N7PPKJEqoKxQ469SYdIPACB3b/view?usp=sharing)  
+
+   - Make an analysis and recommendation on the rainfall in the city of Barcelona based on its historical data.
+
+6. [Ai in HealthCare - Predict status of Chronic Kidney Disease](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/Ai%20in%20HealthCare%20-%20Predict%20status%20of%20Chronic%20kidney%20disease/ML_chronic_Kidney_disease-deploy.ipynb)  
 
 
