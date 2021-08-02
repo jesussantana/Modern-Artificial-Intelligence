@@ -10,6 +10,7 @@
 - Google Teachable Machines
 - Google Vertex AI
 - Microsoft Azure ML Designer
+- Microsoft Azure ML Studio
 - DataRobot AI platform
 - AWS SageMaker AutoPilot
 - AWS DeepLens
@@ -32,19 +33,23 @@
 
 4. [AI in Businnes - Predicting Flight Delays with DataRobot](https://60e895727e71a6eaa3a03fa3.apps2.datarobot.com/?token=8C8XQxDzhpww8nMnclVY2DMp-VqiOI-AtM8_Gu9aVQY)
 
-    - The objective of the project is to develop a model aimed at predicting flight delays at take-off 
+    - The objective of the project is to develop a model aimed at predicting flight delays at take-off  
 
-5. [AI in Tecnology - Emotion AI With Teachable Machines](https://teachablemachine.withgoogle.com/models/RxdCZMbqh/)  
+5. [AI in Businnes - Predicting Adult Income Azure ML Studio](https://services.azureml.net/workspaces/dbabfbfc9beb40409a0bc3a25aaa18f7/webservices/7071653a680e40028d61e91b0d68ba11/endpoints/default/test/rrs?fromStudio=true)
+
+    - The project uses the Adult Income Census data set to train a model to predict an individual's income  
+
+6. [AI in Tecnology - Emotion AI With Teachable Machines](https://teachablemachine.withgoogle.com/models/RxdCZMbqh/)  
 
     - The aim of the project is to classify people's emotions based on their facial images. 
     - This data set consists of 3 different classes (emotions): sad, happy, and surprise.
 
-6. [AI in Tecnology - Custom Trash Detector with AWS DeppLens](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Technology%20-%20AWS%20DeepLens%20Custom%20Trash%20Detector/AI-in-Technology-aws-deeplens-custom-trash-detector.ipynb)  
+7. [AI in Tecnology - Custom Trash Detector with AWS DeppLens](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Technology%20-%20AWS%20DeepLens%20Custom%20Trash%20Detector/AI-in-Technology-aws-deeplens-custom-trash-detector.ipynb)  
 
     - This project, we use an AWS DeepLens device to do an image classification–based task. 
     - We train a model to detect if a piece of trash is from three potential classes: landfill, compost, or recycling.
 
-7. [AI in Technology - Food Classification with DataRobot](#)  
+8. [AI in Technology - Food Classification with DataRobot](#)  
 
     - Food recognition with AI and Explainable AI with DataRobot
 
