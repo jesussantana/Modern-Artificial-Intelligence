@@ -82,4 +82,6 @@
 
 6. [Ai in HealthCare - Predict status of Chronic Kidney Disease](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/Ai%20in%20HealthCare%20-%20Predict%20status%20of%20Chronic%20kidney%20disease/ML_chronic_Kidney_disease-deploy.ipynb)  
 
+   - Predict status of Chronic kidney disease
+
 
