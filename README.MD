@@ -51,13 +51,16 @@
     - This project, we use an AWS DeepLens device to do an image classification–based task. 
     - We train a model to detect if a piece of trash is from three potential classes: landfill, compost, or recycling.  
 
-7. [AI in Tecnology - AWS DeepComposer Samples](#)  
+7. [AI in Tecnology - AWS DeepComposer Samples](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Technology%20-%20AWS%20DeepComposer%20Samples/README.md)  
 
-    - This project, we use an AWS DeepLens device to do an image classification–based task. 
-    - We train a model to detect if a piece of trash is from three potential classes: landfill, compost, or recycling.
-    - [GAN Model]()
-    - [AR-CNN Model]() 
-    - [Training the Transformer-XL]()
+    - AWS DeepComposer gives developers a creative way to start using machine learning. Get literally down to business with a musical keyboard and the latest machine learning techniques designed to increase your ML skills.
+    - [re:Invent 2019 workshop labs](reinvent-labs)
+
+    - [Training a custom GAN model](gan)
+
+    - [Training an autoregressive convolutional neural network(AR-CNN) model](ar-cnn)
+
+    - [Training a Transformer-XL model](transformer-xl)
 
 8. [AI in Technology - Food Classification with DataRobot](#)  
 
