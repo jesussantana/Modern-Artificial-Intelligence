@@ -54,13 +54,13 @@
 7. [AI in Tecnology - AWS DeepComposer Samples](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Technology%20-%20AWS%20DeepComposer%20Samples/README.md)  
 
     - AWS DeepComposer gives developers a creative way to start using machine learning. Get literally down to business with a musical keyboard and the latest machine learning techniques designed to increase your ML skills.
-    - [re:Invent 2019 workshop labs](reinvent-labs)
+    - [re:Invent 2019 workshop labs](/notebooks/AI%20in%20Technology%20-%20AWS%20DeepComposer%20Samples/reinvent-labs)
 
-    - [Training a custom GAN model](gan)
+    - [Training a custom GAN model](/notebooks/AI%20in%20Technology%20-%20AWS%20DeepComposer%20Samples/gan)
 
-    - [Training an autoregressive convolutional neural network(AR-CNN) model](ar-cnn)
+    - [Training an autoregressive convolutional neural network(AR-CNN) model](/notebooks/AI%20in%20Technology%20-%20AWS%20DeepComposer%20Samples/ar-cnn)
 
-    - [Training a Transformer-XL model](transformer-xl)
+    - [Training a Transformer-XL model](/notebooks/AI%20in%20Technology%20-%20AWS%20DeepComposer%20Samples/transformer-xl)
 
 8. [AI in Technology - Food Classification with DataRobot](#)  
 
