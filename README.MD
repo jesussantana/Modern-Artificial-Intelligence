@@ -1,9 +1,11 @@
-![alt text](https://esmarketingdigital.com/images/Modern_Artificial_Intelligence.png) 
 # Modern Artificial Intelligence  
+![alt text](https://esmarketingdigital.com/images/Modern_Artificial_Intelligence.png) 
+
 ---
-[![Linkedin: JesusSantana](https://img.shields.io/badge/-JesusSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chus-santana/)](https://www.linkedin.com/in/chus-santana/) [![GitHub JesusSantana](https://img.shields.io/github/followers/jesussantana?label=follow&style=social)](https://github.com/jesussantana)  
----  
 ## Projects that Unleash the Power of AI to solve Real-World Business Challenges
+---  
+
+[![Linkedin: JesusSantana](https://img.shields.io/badge/-JesusSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chus-santana/)](https://www.linkedin.com/in/chus-santana/) [![GitHub JesusSantana](https://img.shields.io/github/followers/jesussantana?label=follow&style=social)](https://github.com/jesussantana)  
 ---  
 ### Machine Learning Projects with Cloud Services  
 
@@ -47,7 +49,15 @@
 7. [AI in Tecnology - Custom Trash Detector with AWS DeppLens](https://github.com/jesussantana/Modern-Artificial-Intelligence/blob/main/notebooks/AI%20in%20Technology%20-%20AWS%20DeepLens%20Custom%20Trash%20Detector/AI-in-Technology-aws-deeplens-custom-trash-detector.ipynb)  
 
     - This project, we use an AWS DeepLens device to do an image classification–based task. 
+    - We train a model to detect if a piece of trash is from three potential classes: landfill, compost, or recycling.  
+
+7. [AI in Tecnology - AWS DeepComposer Samples](#)  
+
+    - This project, we use an AWS DeepLens device to do an image classification–based task. 
     - We train a model to detect if a piece of trash is from three potential classes: landfill, compost, or recycling.
+    - [GAN Model]()
+    - [AR-CNN Model]() 
+    - [Training the Transformer-XL]()
 
 8. [AI in Technology - Food Classification with DataRobot](#)  
 
