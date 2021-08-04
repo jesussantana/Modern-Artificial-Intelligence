@@ -2,7 +2,7 @@
 ![alt text](https://esmarketingdigital.com/images/Modern_Artificial_Intelligence.png) 
 
 ---
-## 👨‍💼 Projects that Unleash the Power of AI to solve Real-World Business Challenges 🎯
+## 👨‍🔬 Projects that Unleash the Power of AI to solve Real-World Business Challenges 🎯
 ---  
 
 [![Linkedin: JesusSantana](https://img.shields.io/badge/-JesusSantana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chus-santana/)](https://www.linkedin.com/in/chus-santana/) [![GitHub JesusSantana](https://img.shields.io/github/followers/jesussantana?label=follow&style=social)](https://github.com/jesussantana)  
