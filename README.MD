@@ -73,7 +73,7 @@
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)    
 ---  
 
-1. [AI in Business - Predict Crypto Punks NFT's Prices](https://drive.google.com/file/d/1PpVMcJtAnLuVKMa4fPB6SqX1Fb2bbI-G/view?usp=sharing) 
+1. [AI in Business - Predict Crypto Punks NFT's Prices](https://github.com/jesussantana/IT-Academy-Project-CryptoPunks/blob/main/reports/CryptoPunks.pdf) 
 
     - Predict Crypto Punks NFT's Prices in Relation to its Characteristics
 
