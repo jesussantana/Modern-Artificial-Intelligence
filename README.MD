@@ -18,9 +18,9 @@
 - AWS DeepLens
 - AWS DeepRacer
 
-1. [AI in Business - Creation of Automate Content marketing. GPT-3 (Davinci)](https://drive.google.com/file/d/1vFbOOMlPVO7RFIyMqLqOaJ_LLjhsbJut/view?usp=sharinghttps://drive.google.com/file/d/1vFbOOMlPVO7RFIyMqLqOaJ_LLjhsbJut/view?usp=sharing)) 
+1. [AI in Business - Automated Content Marketing Creation. GPT-3 (Davinci)](https://drive.google.com/file/d/1vFbOOMlPVO7RFIyMqLqOaJ_LLjhsbJut/view?usp=sharinghttps://drive.google.com/file/d/1vFbOOMlPVO7RFIyMqLqOaJ_LLjhsbJut/view?usp=sharing)) 
 
-    - Application of AI, oriented to the creation of content marketing. GPT-3 (Davinci)
+    - AI Application Project, oriented to the Automated Creation of Content Marketing. GPT-3 (Davinci)
 
 2. [AI in HealthCare - Chest Disease Detection With Teachable Machines](https://teachablemachine.withgoogle.com/models/51m9nmioQ/) 
     - Detecction, classification of pulmonary diseases with AI (X-ray Images)
