@@ -18,7 +18,7 @@
 - AWS DeepLens
 - AWS DeepRacer
 
-1. [AI in Business - Creation of Automate Content marketing. GPT-3 (Davinci)]([#](https://drive.google.com/file/d/1vFbOOMlPVO7RFIyMqLqOaJ_LLjhsbJut/view?usp=sharinghttps://drive.google.com/file/d/1vFbOOMlPVO7RFIyMqLqOaJ_LLjhsbJut/view?usp=sharing)) 
+1. [AI in Business - Creation of Automate Content marketing. GPT-3 (Davinci)](https://drive.google.com/file/d/1vFbOOMlPVO7RFIyMqLqOaJ_LLjhsbJut/view?usp=sharinghttps://drive.google.com/file/d/1vFbOOMlPVO7RFIyMqLqOaJ_LLjhsbJut/view?usp=sharing)) 
 
     - Application of AI, oriented to the creation of content marketing. GPT-3 (Davinci)
 
