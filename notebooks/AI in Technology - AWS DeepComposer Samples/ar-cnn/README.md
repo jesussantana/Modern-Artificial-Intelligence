@@ -38,7 +38,7 @@ To train the AR-CNN model using a compute optimized notebook instances will decr
 
 9. Choose **submit**.
 
-After you submit your servive limit increase it can take 2-3 days for it to be approved.  
+After you submit your service limit increase it can take 2-3 days for it to be approved.  
 
 ## Creating a notebook instance
 To start creating a custom *AR-CNN* model, launch a SageMaker notebook instance.
